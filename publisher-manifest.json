@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9649d2a70e39047c5b492395",
+  "owner": "bfyahuuga",
+  "repo": "page-c5b52106cf957ca3ea141651",
+  "title": "azi加速器(azi)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c5b52106cf957ca3ea141651",
+      "a": "azi加速器(azi)",
+      "b": "",
+      "entity": "azi加速器(azi)",
+      "brand": "azi加速器(azi)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fee4e6350ad8c7204d5a19ab3bd5f4bf65fd0db2dfb23b99151f987184fc16ff",
+      "content": {
+        "keyword1": "azi加速器(azi)",
+        "keyword2": "",
+        "primary_entity": "azi加速器(azi)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "azi加速器是面向办公、流媒体与游戏的网络加速服务。本页提供 azi VPN 客户端下载、机场订阅套餐与从官网导入节点的操作说明。",
+          "AI_DESCRIPTION": "azi加速器是面向办公、流媒体与游戏的网络加速服务。本页提供 azi VPN 客户端下载、机场订阅套餐与从官网导入节点的操作说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;background:#F6F1E8;color:#1C2B23;font-size:16px;line-height:1.75}a{color:#1F5C3A;text-decoration:underline}a:visited{color:#163F29}img,svg,video{display:none}.page{max-width:1080px;margin:0 auto;padding:12px 16px 40px;overflow-wrap:anywhere;word-break:break-word}header{border-bottom:2px solid #1F5C3A;padding:14px 0 16px;margin-bottom:20px}header p{margin:6px 0 0;color:#3D5348;font-size:14px}nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:12px;font-size:15px}nav a{color:#1F5C3A;text-decoration:none;border-bottom:1px solid #A8C4B4;padding-bottom:1px}.brand{font-size:20px;font-weight:700;color:#143D2A;letter-spacing:.02em}h1{font-size:28px;line-height:1.3;color:#143D2A;margin:8px 0 12px}h2{font-size:22px;line-height:1.35;color:#143D2A;margin:32px 0 12px;padding-bottom:6px;border-bottom:1px solid #C9D8CF}h3{font-size:18px;line-height:1.4;color:#1F5C3A;margin:18px 0 8px}p{margin:0 0 12px}ul,ol{margin:0 0 14px;padding-left:1.25em}li{margin:0 0 6px}.lead{font-size:17px;color:#2A3F35}.cols{display:flex;flex-wrap:wrap;gap:14px;margin:14px 0 8px}.card{flex:1 1 260px;background:#FFFCF7;border:1px solid #D5E0D8;padding:16px 16px 8px}.card p:last-child{margin-bottom:8px}.plans{display:flex;flex-wrap:wrap;gap:14px;margin:16px 0}.plan{flex:1 1 250px;background:#FFFCF7;border:1px solid #C9D8CF;padding:18px 16px;min-width:0}.plan.featured{border:2px solid #1F5C3A;background:#EEF6F0}.tag{display:inline-block;background:#1F5C3A;color:#F6F1E8;font-size:12px;padding:2px 8px;margin-bottom:8px;letter-spacing:.04em}.price{font-size:22px;font-weight:700;color:#143D2A;margin:4px 0}.sub{font-size:14px;color:#3D5348;margin-bottom:10px}.faq-wrap{background:#EEF6F0;border:1px solid #B7CFC0;padding:16px;margin:12px 0 8px}details{background:#FFFCF7;border:1px solid #C9D8CF;padding:10px 12px;margin:0 0 10px}summary{font-weight:700;color:#143D2A;font-size:16px}details p{margin:10px 0 4px;color:#24362D}footer{margin-top:36px;padding-top:16px;border-top:2px solid #1F5C3A;font-size:14px;color:#3D5348}footer a{margin-right:12px}.note{font-size:14px;color:#3D5348}.steps li{margin-bottom:10px}</style><header class=\"page\"><div class=\"brand\">azi加速器</div><p>azi 官方网站 · 机场订阅 · 客户端下载</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">订阅套餐</a><a href=\"#download\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></header><main class=\"page\"><h1>azi加速器(azi) 官方网站</h1><p class=\"lead\">azi加速器面向需要稳定跨境链路的个人与团队，提供可导入的机场订阅、多端客户端与分套餐流量。本页说明 azi VPN 的适用场景、套餐差异、官网下载入口以及从安装到连上节点的完整步骤，便于你按设备完成配置。</p><h2 id=\"intro\">品牌简介</h2><p>azi加速器（简称 azi）是一套以订阅为核心的网络加速服务。用户在官网选定套餐后获取订阅地址，再在 Windows、macOS、Android、iOS 或常见开源客户端中导入，即可按延迟与用途切换节点。服务定位覆盖日常网页加速、会议协作、流媒体点播与对延迟敏感的游戏线路，而不是一次性试用节点列表。</p><p>与散落的临时配置相比，azi 将流量配额、同时在线设备数和线路等级写进套餐，方便按月或按年续订。旗舰版强调原生流媒体解锁与 IPLC 游戏向优化，团队版则把带宽与设备上限交给多人共用。本站仅提供官方说明与下载指引，请从本页锚点进入对应章节，避免来路不明的安装包。</p><h3>服务边界</h3><p>azi加速器提供加密隧道与分流能力，用于访问公开互联网资源、降低跨境链路抖动。请遵守所在地法律法规及目标网站条款，勿将线路用于未授权扫描、攻击或传播违法内容。官方身份以本站套餐说明与客户端下载章节为准。</p><h2 id=\"scenes\">使用场景</h2><div class=\"cols\"><article class=\"card\"><h3>跨境办公与协作</h3><p>远程桌面、代码仓库、云文档和视频会议对丢包更敏感。基础版即可覆盖常规网页与会议；文档往来频繁或需要同时挂多台电脑时，可直接看旗舰版的五设备额度。</p></article><article class=\"card\"><h3>流媒体与内容站点</h3><p>点播、直播和地区版权库依赖出口质量。旗舰版写明全节点原生流媒体解锁，适合把播放器固定在同一条线路上，减少反复换节点。基础版提供基础解锁，适合偶尔观看。</p></article><article class=\"card\"><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，用于把延迟曲线压得更平。团队训练或工作室多开时，团队版的高带宽节点和定制路由更合适，不必把个人套餐硬分给二十台设备。</p></article></div><h2 id=\"plans\">机场订阅套餐</h2><p>以下价格与配额为 azi加速器当前公示方案。流量按自然月重置，年付按十二个月一次性结算。选择套餐后即可在客户端导入订阅，无需反复手动填写节点。</p><div class=\"plans\"><section class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"sub\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p class=\"note\">适合轻度浏览、邮件和偶发会议。三台设备通常对应手机、电脑加一块平板。</p></section><section class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"sub\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p class=\"note\">日常主力套餐。流量与设备余量更从容，线路侧重播放稳定性与对战延迟。</p></section><section class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"sub\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p class=\"note\">工作室、教研小组或多成员共用一条订阅时使用，避免个人套餐超设备上限。</p></section></div><h2 id=\"download\">客户端下载</h2><p>azi加速器支持主流系统。官方下载入口集中在本页，安装包应与下方系统名称对应。订阅链接在套餐开通后显示，客户端内粘贴即可拉取节点，不必逐条导入服务器。</p><div class=\"cols\"><article class=\"card\"><h3>桌面端</h3><p><a href=\"#download\">Windows 官方客户端</a>：覆盖 Windows 10 及以上，安装后选择订阅模式。</p><p><a href=\"#download\">macOS 官方客户端</a>：适配近期系统版本，首次启动需在系统设置中允许网络扩展。</p></article><article class=\"card\"><h3>移动端</h3><p><a href=\"#download\">Android 官方客户端</a>：侧载或应用商店渠道以官网说明为准，导入订阅后可一键连接。</p><p><a href=\"#download\">iOS 配置指引</a>：通过描述文件或兼容客户端写入订阅，连接前确认 VPN 配置已添加。</p></article><article class=\"card\"><h3>兼容客户端</h3><p>若你已有常用开源客户端，只需在其中粘贴 azi 机场订阅地址并开启定期更新。分流规则建议保留国内直连，把跨境域名走代理，减少无关消耗。</p></article></div><p class=\"note\">下载前请核对页面品牌为 azi加速器(azi)。本页不放置可执行附件，具体安装包以官方下载章节跳转后的文件名为准。</p><h2 id=\"guide\">操作说明</h2><h3>从开通到第一次连通</h3><ol class=\"steps\"><li>在<a href=\"#plans\">订阅套餐</a>中选定基础版、旗舰版或团队版，完成开通后复制机场订阅地址。</li><li>打开对应系统的<a href=\"#download\">客户端下载</a>入口，安装 azi 官方客户端或你已熟悉的兼容客户端。</li><li>在客户端选择「订阅 / 从 URL 更新」，粘贴地址，确认节点列表出现多地区线路。</li><li>按用途挑选节点：网页与文档选延迟较低的综合节点；播放选标注流媒体的出口；对战游戏优先旗舰版 IPLC 相关线路。</li><li>开启连接后访问目标站点。若页面长时间无响应，切换相邻地区节点，并确认本地系统时间准确。</li></ol><h3>日常维护</h3><p>建议每周手动更新一次订阅，以免节点变动后仍使用旧配置。流量将尽时客户端会提示配额，基础版可考虑升级到旗舰版而不是频繁更换服务。多设备登录时，以套餐同时在线数为上限，超出后新会话可能被踢出。</p><h2>线路与加速能力</h2><p>azi 节点池按套餐分层。基础版使用普通线路节点池，覆盖常用地区，满足浏览与基础解锁。旗舰版在此之上提供原生流媒体出口，并对游戏向 IPLC 线路做延迟优化。团队版另开 VIP 高带宽节点，允许按企业网段做定制路由，把办公网段与娱乐网段分开。</p><p>实际速度受本地宽带、时段拥堵和目标站策略影响。同一套餐内可随时换节点，不必改订阅地址。若某条线路持续失败，优先更新订阅；仍异常再走旗舰版与团队版的工单或客户经理通道。</p><h2 id=\"faq\">常见问题</h2><p>以下问题按开通、下载、套餐和排障顺序排列。点开即可阅读完整说明，无需离开本页。</p><div class=\"faq-wrap\"><details><summary>azi加速器是什么？和普通 VPN 客户端有何关系？</summary><p>azi加速器是带流量配额的机场订阅服务，azi VPN 客户端用于导入该订阅并建立加密隧道。你也可以把同一订阅贴进其他兼容客户端。核心差别在于节点与配额由 azi 套餐管理，而不是只提供单一服务器。</p></details><details><summary>如何从官网下载客户端并导入机场订阅？</summary><p>先在本页完成套餐开通并复制订阅地址，再进入「客户端下载」按系统安装。打开软件后选择从 URL 添加订阅、保存并更新，节点出现后即可连接。不要使用来源不明的安装包，以免订阅被第三方截获。</p></details><details><summary>基础版、旗舰版和团队版应该怎么选？</summary><p>轻度使用、三台设备以内选基础版（¥15/月或 ¥150/年，100GB）。需要原生流媒体、游戏向 IPLC 和五台设备选旗舰版（¥35/月或 ¥350/年，300GB）。二十台设备、千 GB 流量或要定制路由时选团队版（¥85/月或 ¥850/年）。年付按十二个月计，适合确定会长周期使用的情况。</p></details><details><summary>支持哪些系统？同时在线设备数如何计算？</summary><p>桌面覆盖 Windows 与 macOS，移动覆盖 Android 与 iOS，另兼容常见订阅客户端。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。电脑、手机、平板各算一台；同一账号在超限设备上新建连接时，最早会话可能被断开。</p></details><details><summary>流量如何统计？用尽或连接失败时怎么办？</summary><p>套餐流量按出站实际用量累计，月度重置。接近上限时减少大文件与长时间 4K 播放，或升级套餐。连接失败时依次检查：订阅是否已更新、系统时间是否正确、是否超出设备数、本地防火墙是否拦截虚拟网卡。更换同区域其他节点通常即可恢复。</p></details><details><summary>流媒体解锁和游戏加速怎样才生效？</summary><p>基础版提供基础流媒体解锁，能覆盖部分平台；旗舰版要求选择带原生解锁标记的节点，并避免在播放中途频繁跳转地区。游戏请使用旗舰版 IPLC 相关线路，关闭游戏自带加速再测延迟。团队版可按域名把游戏与办公分成不同出口。</p></details><details><summary>azi 官方网站如何确认下载没有下错？</summary><p>核对页面标题与品牌书写为 azi加速器(azi)，套餐名称、价格与本页一致，下载链接仅使用页内锚点进入官方下载章节。不要相信额外评分截图或第三方镜像。若描述文件或安装包名称与系统不符，停止安装并回到本页重新进入下载说明。</p></details></div><h2>官网使用提示</h2><p>本页为 azi加速器官方网站内容页，集中展示品牌简介、机场订阅、客户端下载与操作说明。导航与文内链接均指向页面锚点，便于在手机上单手滚动阅读。若你需要把说明转给同事，直接分享本页即可，不必再拼接口参数。</p><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"page\"><p><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#download\">官方下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></p><p>azi加速器(azi) 官方网站 · 网络加速与机场订阅说明 · 版权所有</p></footer>",
+          "hash": "58a3c340f968cd0a401694817a31acceb3e76eac545135619db499537b97152a",
+          "seo": {
+            "title": "azi加速器(azi)官方网站 | 客户端下载与机场订阅加速",
+            "keywords": "azi加速器,azi,azi VPN,azi机场,机场订阅,客户端下载,网络加速,加速器官网,官方下载",
+            "description": "azi加速器是面向办公、流媒体与游戏的网络加速服务。本页提供 azi VPN 客户端下载、机场订阅套餐与从官网导入节点的操作说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vfrtl.cn",
+    "host": "p-cbc68194c3.vfrtl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "vfrtl.cn",
+      "url": "https://vfrtl.cn/",
+      "label": "Windup",
+      "apex": "vfrtl.cn",
+      "kind": null,
+      "identity": "hrjqxbdnjh/page-c4863ad20fdb12cafb342f22"
+    },
+    {
+      "host": "pmyqd.cn",
+      "url": "https://pmyqd.cn/",
+      "label": "azi加速器(azi)",
+      "apex": "pmyqd.cn",
+      "kind": null,
+      "identity": "senbtbdyg/page-5ecbba4f5860f806458cd2ca"
+    },
+    {
+      "host": "pprml.cn",
+      "url": "https://pprml.cn/",
+      "label": "azi加速器(azi)",
+      "apex": "pprml.cn",
+      "kind": null,
+      "identity": "qtygwkgvm/page-86bf386d908d0fd5b8dbbca4"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3aaa5d02785751b378c5d59f29e4325e16c8b61875eecb60019c354ed703edbd",
+    "sitemap.xml": "2e5e5ce1c568d9e55a94764f3418a32097ea668f2d3f6198b2cc834aabb5fbeb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f48e2639cf6a6e22fa7423f64576651c278b1cbf2ec09746d76f6ba333a8de74",
+    "robots.txt": "bfb7232f5173be5360b37a528b6299288634a60c5964872e5286c60470a8106b",
+    "fcd0d6b7ec3b6d3a5b22e9db89fd164e.txt": "06e71f2ab991de27e76d881178a0c1c11921085827756d310f8668339bbf56b1"
+  },
+  "revision": "1f777794e120536b8b708ab0b4c1ed00bf5dba569c9e599b7a4dd695dc6056e4"
+}
